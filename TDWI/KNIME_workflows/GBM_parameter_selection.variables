@@ -1,0 +1,10 @@
+<flowvariables>
+<flowvar name="Area Under Curve" type="DOUBLE">0.8428326474622773</flowvar>
+<flowvar name="num trees" type="INTEGER">40</flowvar>
+<flowvar name="maxdepth" type="INTEGER">5</flowvar>
+<flowvar name="learning rate" type="DOUBLE">0.11</flowvar>
+<flowvar name="Iteration" type="INTEGER">1</flowvar>
+<flowvar name="Iteration (#1)" type="INTEGER">3</flowvar>
+<flowvar name="Iteration (#2)" type="INTEGER">4</flowvar>
+<flowvar name="RowID" type="STRING">P (survived=1)#1#3#4</flowvar>
+</flowvariables>

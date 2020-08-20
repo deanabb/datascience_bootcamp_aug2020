@@ -1,0 +1,8 @@
+<flowvariables>
+<flowvar name="Area Under Curve" type="DOUBLE">0.8466849565614998</flowvar>
+<flowvar name="num trees" type="INTEGER">20</flowvar>
+<flowvar name="minnodesize" type="INTEGER">2</flowvar>
+<flowvar name="Iteration" type="INTEGER">0</flowvar>
+<flowvar name="Iteration (#1)" type="INTEGER">0</flowvar>
+<flowvar name="RowID" type="STRING">P (survived=1)#0#0</flowvar>
+</flowvariables>
